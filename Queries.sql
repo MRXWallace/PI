@@ -5,10 +5,13 @@ order by conteo desc;
 
 
 #Piloto con mayor cantidad de primeros puestos
-select driverid, COUNT(*) as conteo FROM results
+select *, COUNT(*) as conteo FROM results
+INNER JOIN drivers
+ON results.driverid = drivers.driverid
 where position = 1
-GROUP BY (driverid)
+GROUP BY (drivers.driverid)
 order by conteo desc;
+
 
 
 #Nombre del circuito más corrido
