@@ -1,12 +1,27 @@
 # Proyecto Individual 1- Alan Sánchez Díaz - Data 03- Soy Henry   
 ## Creación de una API
 
+A continuacion podemos observar el funcionamiento de la API en el apartado de docs
 ![image](https://github.com/MRXWallace/PI/blob/master/Imagenes/fastapi%20docs.JPG)
+
+Aqui se puede consultar la consigna numero 1
 ![image](https://github.com/MRXWallace/PI/blob/master/Imagenes/A%C3%B1o%20con%20mas%20Carreras.JPG)
+
+Aqui se puede consultar la consigna numero 2
 ![image](https://github.com/MRXWallace/PI/blob/master/Imagenes/Nombre%20del%20Circuito%20mas%20Corrido.JPG)
+
+Aqui se puede consultar la consigna numero 3
 ![image](https://github.com/MRXWallace/PI/blob/master/Imagenes/Piloto%20con%20Mayor%20Puntaje%20%2Cconstructor%20ingles.JPG)
+
+Aqui se puede consultar la consigna numero 4
 ![image](https://github.com/MRXWallace/PI/blob/master/Imagenes/Piloto%20con%20mayor%20cantidad%20de%20victorias.JPG)
+
+Aqui se puede consultar el Diagrama de Relaciones
 ![image](https://github.com/MRXWallace/PI/blob/master/Imagenes/Diagrama.JPG)
+
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/108296379/182138583-9011699a-f009-4454-885e-80dca182b6c8.png)
