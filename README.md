@@ -1,4 +1,4 @@
-# Proyecto Individual 1- Data 03- Soy Henry   
+# Proyecto Individual 1- Alan Sánchez Díaz - Data 03- Soy Henry   
 ## Creación de una API
 ![image](https://user-images.githubusercontent.com/108296379/182138583-9011699a-f009-4454-885e-80dca182b6c8.png)
 
