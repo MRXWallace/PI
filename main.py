@@ -45,5 +45,5 @@ async def root():
 
 @app.get('/Piloto con mayor cantidad de puntos en total, cuyo constructor sea de nacionalidad sea American o British/')
 async def root():
-    PilotoScoreANS = 'Lewis Hamilton es el piloto con mayor puntaje obteniendo 3778 puntos con su maquinaria McLaren de origen Inglés'
+    PilotoScoreANS = 'Lewis Hamilton es el piloto con mayor puntaje obteniendo 3778 puntos con su maquina McLaren de origen Inglés'
     return PilotoScoreANS
